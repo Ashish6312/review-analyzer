@@ -1,0 +1,21 @@
+sentiment,topics,summary,review
+Positive,"['quality', 'delivery']",The customer is satisfied with the product quality and fast delivery.,The product quality is excellent and delivery was very fast.
+Negative,['customer service'],The customer had a terrible experience with the company's customer service.,Terrible customer service. I will never buy from this company again.
+Mixed,"['battery', 'quality']",The phone has a great appearance but is let down by its short battery life.,The phone looks great but the battery drains quickly.
+Negative,['delivery'],The customer's delivery was delayed by more than a week.,Delivery was delayed by more than a week.
+Positive,"['quality', 'customer service']",The customer highly recommends the product.,Amazing product. Highly recommend it.
+Mixed,"['price', 'packaging']","The product was good value for money, but arrived with damaged packaging.",Good value for money but the packaging was damaged.
+Positive,['customer service'],The customer support team resolved the issue promptly.,Customer support solved my issue immediately.
+Neutral,['quality'],The customer found the product to be of average quality.,Average quality. Nothing special.
+Positive,"['performance', 'price']",The laptop has excellent performance for its price.,The laptop performance is excellent for the price.
+Negative,['quality'],The customer is very disappointed with the build quality.,Very disappointed with the build quality.
+Positive,"['shipping', 'packaging']",The customer was satisfied with the fast shipping and excellent packaging.,Fast shipping and excellent packaging.
+Mixed,"['performance', 'quality']",The software is easy to use but has occasional crashing issues.,The software is easy to use but crashes sometimes.
+Negative,"['customer service', 'quality']",The product arrived broken and the customer support was unresponsive.,The product arrived broken and support ignored my emails.
+Positive,"['price', 'quality']",The customer praises the product for its affordable price and premium quality.,Affordable price with premium quality.
+Mixed,"['shipping', 'quality']",The customer received the product quickly but it was defective.,Shipping was fast but the product was defective.
+Positive,['customer service'],The customer had a positive experience with the customer service and quick replacement.,Excellent customer service and quick replacement.
+Negative,"['price', 'quality']",The product is not worth the money.,Not worth the money.
+Positive,"['quality', 'performance']",The product exceeded the customer's expectations in every way.,Exceeded my expectations in every way.
+Mixed,"['quality', 'delivery']","The customer found the quality to be good, but the delivery was slow.",Quality is good but delivery was slow.
+Positive,"['products', 'seller']",The customer highly recommends the seller and their products.,Highly recommended seller with great products.
